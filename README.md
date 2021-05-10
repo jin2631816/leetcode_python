@@ -2,7 +2,7 @@
 
 ## Problems & Solutions
 
-[Array]
+[Array]()
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | --------------------- |
