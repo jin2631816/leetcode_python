@@ -4,7 +4,7 @@
 
 [Python](https://github.com/qiyuangong/leetcode/tree/master/python) 
 
-##Array 
+Array 
 
 | # | Title | Solution | Basic idea (One line) |
 |---| ----- | -------- | --------------------- |
