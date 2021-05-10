@@ -2,8 +2,7 @@
 
 ## Problems & Solutions
 
-Array 
-| # | Array 								   | 
+[Array]
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | --------------------- |
